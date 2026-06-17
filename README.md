@@ -28,7 +28,15 @@ RoyalRun is an endless runner project focused on character movement, procedural 
 
 ## Screenshots
 
-(Add screenshots here)
+![Gameplay](Screenshots/gameplay.png)
+
+![Pickups](Screenshots/pickup.png)
+
+![Checkpoint](Screenshots/checkpoint.png)
+
+![Score UI](Screenshots/score_ui.png)
+
+![Game Over](Screenshots/game_over.png)
 
 ## Author
 
